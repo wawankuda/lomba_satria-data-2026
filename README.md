@@ -117,5 +117,4 @@ Jalankan notebook secara berurutan:
 
 ---
 
-## 👥 Tim & Pengembang
-- **Peserta Tim Satria Data 2026**
+
